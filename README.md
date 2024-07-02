@@ -1,4 +1,4 @@
-# Proxy Checker Tool
+# Proxy CHK
 
 This Python script checks a list of proxies for connectivity and saves the working proxies to an output file.
 
