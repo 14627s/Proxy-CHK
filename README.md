@@ -10,7 +10,7 @@ This Python script checks a list of proxies for connectivity and saves the worki
 ### Usage:
 1. Ensure Python 3.x is installed.
 2. Modify `config.ini` to set your preferred timeout and file paths.
-3. Run `proxy_checker.py` to validate proxies and generate `output.txt`.
+3. Run `proxychk.py` to start checking proxies and save it on  `output.txt`.
 
 ### Configuration (`config.ini`):
 - `timeout`: Timeout duration (in seconds) for each proxy check.
