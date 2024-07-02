@@ -23,6 +23,6 @@ This Python script checks a list of proxies for connectivity and saves the worki
 timeout = 5
 input_file = proxies.txt
 output_file = output.txt
-
+```
 ![image](https://github.com/14627s/Proxy-CHK/assets/173080010/6a1e5313-95a6-49d7-9949-17e582fccfd1)
 ![image](https://github.com/14627s/Proxy-CHK/assets/173080010/ee943040-7220-48b8-84de-1140f94659ce)
