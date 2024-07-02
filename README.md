@@ -24,5 +24,5 @@ timeout = 5
 input_file = proxies.txt
 output_file = output.txt
 ```
-![image](https://github.com/14627s/Proxy-CHK/assets/173080010/6a1e5313-95a6-49d7-9949-17e582fccfd1)
-![image](https://github.com/14627s/Proxy-CHK/assets/173080010/ee943040-7220-48b8-84de-1140f94659ce)
+![image](https://github.com/14627s/Proxy-CHK/assets/173080010/8c004db0-a7ab-46b7-9b8a-53de07bab594)
+![image](https://github.com/14627s/Proxy-CHK/assets/173080010/d59678c4-687f-4225-8b43-c0c532456288)
